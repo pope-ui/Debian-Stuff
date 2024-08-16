@@ -1,6 +1,6 @@
 
 cd ~/Downloads
-git Clone https://github.com/drewgrif/dotfiles
+git Clone https://github.com/drewgrif/jag_dots/.config
 
 cp -r ~/Downloads/dotfiles/bin/ ~
 chmod +x ~/bin/*
